@@ -25,4 +25,4 @@ $$
 
 <img width="826" height="425" alt="image" src="https://github.com/user-attachments/assets/8cf0cc47-7dde-4d59-b268-1d3f4f8708aa" />
 
-In that picture you can see the precision, like how much it will need to get percised
+In that picture you can see the precision, like how much steps it will need to get percised
