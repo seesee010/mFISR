@@ -8,4 +8,15 @@ I will write Fast inverse square root in x86-64bit Intel ASM!
 
 ## Math
 
-$$y_{n+1} = y_n \cdot \left(1.5 - \frac{x}{2} \cdot y_n^2\right)$$
+$$
+y_{n+1} = y_n \cdot \left(1.5 - \frac{x}{2} \cdot y_n^2\right)
+$$
+
+### About this formular
+In this formular you can see y, if you gonna preform that calculation multible times, it will get more precised.
+
+So this formular will approach as:
+
+$$
+y = \frac{1}{\sqrt{x}}
+$$
