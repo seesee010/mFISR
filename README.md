@@ -1,4 +1,8 @@
 # mISR
+
+> [!NOTE]
+> the function won't use FISQ algorithm!
+
 This is my own implimentation of an inverted square root.
 Although it doesn't use such magic as the fast inverted square root technique from quate 3.
 Made with the `Newton-Raphson-Iteration`
